@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Birdsong-Interactive
-- I'm a Canadian indie game developer and streamer. You can catch me live on Twitch Wednesday to Sunday 7:30AM PST for about 6 hours
+- I'm a Canadian indie game developer and streamer.
+- You can catch me live on Twitch Wednesday to Sunday 7:30AM PST for about 6 hours!
+- https://www.twitch.tv/birdsong_technology 🐦
+
+
 
 -I'm makking a 3D squad based roguelike where you outrun monsters that have just destroyed your home village, leaving very few survivors. 
 -You are an apprentice wizard from a small village. 
