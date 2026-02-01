@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Birdsong-Interactive
+- 👋 Hi, I’m @birdsong_technology
 - I'm a Canadian indie game developer and streamer.
-- You can catch me live on Twitch Wednesday to Sunday 7:30AM PST for about 6 hours!
+- You can catch me live on Twitch Sunday to Thursday 7:30AM PST for about 6/7 hours!
 - https://www.twitch.tv/birdsong_technology 🐦
 
 
