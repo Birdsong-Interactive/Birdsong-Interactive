@@ -5,7 +5,7 @@
 
 
 
--I'm makking a 3D squad based roguelike where you outrun monsters that have just destroyed your home village, leaving very few survivors. 
+-I'm making a third person squad based roguelike where you outrun monsters that have just destroyed your home village, leaving very few survivors. 
 -You are an apprentice wizard from a small village. 
 -You have lost much, as have your fellow villagers. Friends, family, loved ones, your homes.
 - There is still one hope, however. The local lord may be able to protect you. If you can only reach their fortress.
